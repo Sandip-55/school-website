@@ -147,7 +147,7 @@ img {
 .header {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('images/img1.jpg');
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('school.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -898,7 +898,7 @@ nav.scrolled .hamburger span {
 /* ===== ABOUT PAGE ===== */
 .sub-header {
   height: 45vh;
-  background: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('/gra6.jpg');
+  background: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('images/gra6.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
