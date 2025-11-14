@@ -147,7 +147,7 @@ img {
 .header {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('school.png');
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url('images/school.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -761,7 +761,7 @@ nav.scrolled .hamburger span {
 
 /* ===== CALL TO ACTION ===== */
 .cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('/WhatsApp\ Image\ 2025-09-16\ at\ 15.52.21_5887f98a.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('images/WhatsApp Image 2025-09-16 at 15.52.21_5887f98a.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
